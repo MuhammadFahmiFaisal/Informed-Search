@@ -24,7 +24,7 @@ A* Tree Graph Search adalah varian dari A* yang menangani eksplorasi graf dengan
 2. **Jalankan kode dalam Google Colab dengan langkah berikut**:
    - Upload file Python ke Google Colab.
    - Tambahkan sel kode berikut untuk menjalankan algoritma:
-   - 
+     
      !python greedy_search.py  # Untuk menjalankan Greedy Best First Search
      !python astar_search.py   # Untuk menjalankan A* Search
      !python astar_tree_graph.py  # Untuk menjalankan A* Tree Graph Search
